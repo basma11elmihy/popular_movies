@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <string name="details">Movie Details</string>
+    <string name="popular">Popular</string>
+    <string name="top_rated">Top Rated</string>
+
+   <string name="parcel_data">parcel_data</string>
+    <string name="image_url">https://image.tmdb.org/t/p/w500</string>
+    <string name="movieID">movieID</string>
+    <string name="title">movieTitle</string>
+    <string name="permissionMsg">Please provide permission so the app can work correctly</string>
+    <string name="API_KEY">704309e018dc5823efbc0ca4966083d1</string>
+    <string name="Base_URL">http://api.themoviedb.org/3/movie/</string>
+    <string name="pref_key">pref</string>
+    <string name="popular_value">popular</string>
+    <string name="fav_value">favourite</string>
+    <string name="topRated_value">top_rated</string>
+    <string name="youtube_base">https://www.youtube.com/watch?v=</string>
+    <string name="Trailer">Trailer </string>
+    <style name="Reviews">Reviews</style>
+
+
+</resources>
